@@ -7,7 +7,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update, Keyboar
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, CallbackContext, MessageHandler, Filters, ConversationHandler
 import time
 
-TOKEN = "1930596296:AAGiM7elgdOvncwDK6-2eDN1U8LLW9E5g8w"
+# Insert Token
 path = ""
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
